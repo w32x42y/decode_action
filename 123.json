@@ -1,0 +1,43 @@
+ "config": {
+    "TQ120": 12.7,
+    "proxyApiUrls": [
+      "https://service.ipzan.com/core-extract?num=1&no=20240919923016291650&minute=1&format=txt&repeat=1&protocol=1&pool=ordinary&mode=whitelist&secret=evdgedveceho68o",
+      "https://service.ipzan.com/core-extract?num=1&no=202308089926832&minute=1&format=txt&repeat=1&protocol=1&pool=ordinary&mode=whitelist&secret=s1mg5h0c"
+    ],
+    "activeId": 22,
+    "480taskId": 142,
+    "360taskId": 141,
+    "240taskId": 140,
+    "120taskId": 139,
+    "15taskId": 138,
+    "dkhd": 6640
+  },
+  "wxpusher": {
+    "token": "AT_UTqe84MZC8wjeZ0vLnKR3AcsNicc7L4P",
+    "uids": [
+      {
+        "uid": "UID_pT7ifPmHs5ewHsdcfv9saeXCCopf",
+        "note": "总推送"
+      },
+      {
+        "uid": "UID_hlg43dTg5Ip5EfdKlmq4Dq3PSgWe",
+        "note": "他人"
+      },
+      {
+        "uid": "UID_OwUoM53pzqOsdtcsxXpRrjSVckOL",
+        "note": "自己"
+      }
+    ]
+  },
+  "phones": [
+    {
+      "number": "15614622310",
+      "note": "自己",
+      "group": "自己"
+    },
+    {
+      "number": "15614625613",
+      "note": "自己",
+      "group": "自己"
+    }
+  ]
